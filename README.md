@@ -14,6 +14,6 @@ Skills: C++ / C# / HTML / CSS / JS / Python / REACT / Figma
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mni-linh&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://skyline.github.com/mni-linh/2021)
+![GitHub Activity Graph](./mni-linh-2021.stl)
 
 ![Profile views](https://gpvc.arturio.dev/mni-linh)
