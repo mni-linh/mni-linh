@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on I am currently a final year student of a university in Ho Chi Minh City
 - 🌱 I’m currently learning Information Technology
-- 🤔 I’m looking for help with I’m looking for some cool people.
+- 🤔 I’m looking for some cool people.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mni-linh)](https://github.com/anuraghazra/github-readme-stats) -->
 
