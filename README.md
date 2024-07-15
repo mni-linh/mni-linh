@@ -5,12 +5,6 @@
 - 🔭 I’m currently working on I am currently a final year student of a university in Ho Chi Minh City
 - 🌱 I’m currently learning Information Technology
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mni-linh)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mni-linh&show_icons=true&count_private=true)
-
-<!-- ![GitHub Activity Graph](./mni-linh-2021.stl) -->
-
 ![Profile views](https://gpvc.arturio.dev/mni-linh)
 
 **Contact Me:**
